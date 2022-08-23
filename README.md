@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Eric Vinício ✔️
 Estudante de ciências da computação - UNICEUB
 
--  🔭 Estudante de ciências da computação - UNICEUB
+-  🔭 Ciências da computação - UNICEUB
 -  🌱Aprendendo a usar ferramentas de Frontend
 -  📫 Contact-me: eric.1vinicio@gmail.com
 
